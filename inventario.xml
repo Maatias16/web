@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+    <zapatilla id="001">
+        <marca>Nike</marca>
+        <modelo>Airflex Runing</modelo>
+        <precio>170€</precio>
+        <tallas>
+            <talla>38</talla>
+            <talla>40</talla>
+            <talla>42</talla>
+        </tallas>
+        <stock>15</stock>
+    </zapatilla>
+
+    <zapatilla id="002">
+        <marca>Jordan</marca>
+        <modelo>Air Jordan 3 "San Valentin"</modelo>
+        <precio>225€</precio>
+        <tallas>
+            <talla>39</talla>
+            <talla>41</talla>
+            <talla>43</talla>
+        </tallas>
+        <stock>10</stock>
+    </zapatilla>
+
+    <zapatilla id="003">
+        <marca>Vans</marca>
+        <modelo>Classic Model</modelo>
+        <precio>40€</precio>
+        <tallas>
+            <talla>37</talla>
+            <talla>40</talla>
+            <talla>44</talla>
+        </tallas>
+        <stock>8</stock>
+    </zapatilla>
+
+    <zapatilla id="004">
+        <marca>Jordan</marca>
+        <modelo>Air Jordan 1 "Rebellionarie"</modelo>
+        <precio>450€</precio>
+        <tallas>
+            <talla>38</talla>
+            <talla>41</talla>
+            <talla>43</talla>
+        </tallas>
+        <stock>12</stock>
+    </zapatilla>
+</inventario>
