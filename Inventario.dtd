@@ -1,0 +1,9 @@
+<!-- DTD para el inventario de Zapatillas de la empresa -->
+<!ELEMENT inventario (Zapatillas+)>
+<!ELEMENT Zapatillas (Marca, Precio, Modelo)>
+<!ELEMENT Marca (#PCDATA)>
+<!ELEMENT Precio (#PCDATA)>
+<!ELEMENT Modelo (#PCDATA)>
+<!ATTLIST Zpatilla
+    id ID #REQUIRED
+>

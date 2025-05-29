@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario SYSTEM "inventario.dtd">
+<inventario>
+    <zapatilla id="PC001">
+        <Marca>Nike</Marca>
+        <Precio>170€</Precio>
+        <Modelo>Airflex Runing</Modelo>
+    </zapatilla>
+    <zapatilla id="PC002">
+        <Marca>Jordan</Marca>
+        <Precio>225€</Precio>
+        <Modelo>Air Jordan 3 "San Valentin"</Modelo>
+    </zapatilla>
+    <zapatilla id="PC003">
+        <Marca>Vanss</Marca>
+        <Precio>40€</Precio>
+        <Modelo>Cassic Model</Modelo>
+    </zapatilla>
+    <zapatilla id="PC004">
+        <Marca>Jordan</Marca>
+        <Precio>450€</Precio>
+        <Modelo>Air Jordan 1 "Rebellionarie"</Modelo>
+    </zapatilla>
+</inventario>
